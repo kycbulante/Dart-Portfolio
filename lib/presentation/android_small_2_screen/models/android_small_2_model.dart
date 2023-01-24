@@ -1,0 +1,1 @@
+class AndroidSmall2Model {}
